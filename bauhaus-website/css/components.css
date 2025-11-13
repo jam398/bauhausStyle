@@ -34,7 +34,7 @@
 .btn-primary:hover {
   background-color: var(--color-primary-dark);
   transform: translateY(-1px); /* Reduced from -2px */
-  box-shadow: 0 4px 12px rgba(0, 100, 180, 0.15); /* Reduced shadow */
+  box-shadow: 0 2px 8px rgba(0, 100, 180, 0.12); /* Minimal shadow for Bauhaus */
 }
 
 .btn-primary:active {
@@ -48,7 +48,7 @@
 
 .btn-secondary:hover {
   background-color: var(--color-secondary-dark);
-  box-shadow: 0 4px 12px rgba(225, 0, 15, 0.15); /* Reduced shadow */
+  box-shadow: 0 2px 8px rgba(225, 0, 15, 0.12); /* Minimal shadow for Bauhaus */
   transform: translateY(-1px); /* Reduced from -2px */
 }
 
@@ -110,7 +110,7 @@
 }
 
 .card:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08); /* Reduced from 0 12px 32px */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06); /* Minimal shadow for Bauhaus flatness */
   transform: translateY(-2px); /* Reduced from -4px */
   border-color: transparent;
 }
@@ -161,12 +161,12 @@
   border-bottom: 2px solid var(--color-gray-300);
   backdrop-filter: blur(12px);
   transition: all 0.3s ease;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04); /* Minimal shadow */
 }
 
 .header.scrolled {
   background-color: rgba(255, 255, 255, 1);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* Minimal shadow */
   border-bottom-color: var(--color-gray-400);
 }
 
