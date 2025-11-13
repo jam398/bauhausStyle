@@ -317,7 +317,7 @@
   background-color: var(--color-surface);
   border: 2px solid var(--color-outline);
   transition: all var(--duration-fast) var(--ease-in-out);
-  border-radius: var(--radius-lg);
+  border-radius: 0; /* Bauhaus sharp rectangular forms */
 }
 
 .form-input:focus {
