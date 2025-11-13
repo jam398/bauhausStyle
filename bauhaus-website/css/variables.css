@@ -144,16 +144,16 @@
   --color-surface-variant: var(--color-gray-100);
   
   /* Text Colors */
-  --color-on-background: var(--color-gray-900);
-  --color-on-surface: var(--color-gray-900);
+  --color-on-background: var(--bauhaus-black);  /* Pure black for Bauhaus */
+  --color-on-surface: var(--bauhaus-black);     /* Pure black for Bauhaus */
   --color-on-primary: var(--color-gray-0);
   --color-on-secondary: var(--color-gray-0);
-  --color-on-accent: var(--color-gray-900);
+  --color-on-accent: var(--bauhaus-black);      /* Pure black for Bauhaus */
   
-  /* Text Hierarchy - Updated for better readability */
-  --text-primary: var(--color-gray-900);
-  --text-secondary: var(--color-gray-700);  /* Darker for better contrast */
-  --text-tertiary: var(--color-gray-500);   /* Still readable */
+  /* Text Hierarchy - Bauhaus pure black for maximum contrast */
+  --text-primary: var(--bauhaus-black);  /* Changed from gray-900 to pure black */
+  --text-secondary: var(--color-gray-800);  /* Darkened from 700 */
+  --text-tertiary: var(--color-gray-600);   /* Darkened from 500 */
   --text-disabled: var(--color-gray-400);
   
   /* Borders */

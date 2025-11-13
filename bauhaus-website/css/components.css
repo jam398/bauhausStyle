@@ -126,7 +126,7 @@
 .card-body {
   font-size: var(--text-lg);  /* Increased from text-base for better readability */
   line-height: var(--leading-relaxed);
-  color: var(--color-gray-700);  /* Darker for better contrast */
+  color: var(--text-primary);  /* Changed to pure black for Bauhaus contrast */
   margin-bottom: var(--space-4);
 }
 
