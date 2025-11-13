@@ -8,9 +8,9 @@
 .eyebrow,
 .section-label {
   font-size: var(--text-xs);
-  font-weight: var(--weight-semibold);
+  font-weight: var(--weight-bold); /* Increased from semibold to bold */
   text-transform: uppercase;
-  letter-spacing: var(--tracking-widest);
+  letter-spacing: 0.15em; /* Increased from var(--tracking-widest) for more Bauhaus spacing */
   margin-bottom: var(--space-3);
 }
 
