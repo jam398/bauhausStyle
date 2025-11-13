@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-🌐 [Live Demo](https://jam398.github.io/bauhausStyle/) | 📚 [Design System](./bauhaus-neo-modernism-research/DESIGN-SYSTEM.md) | 📖 [Documentation](./bauhaus-neo-modernism-research/)
+🌐 [Live Demo](https://jam398.github.io/bauhausStyle/bauhaus-website/index.html) | 📚 [Design System](./bauhaus-neo-modernism-research/DESIGN-SYSTEM.md) | 📖 [Documentation](./bauhaus-neo-modernism-research/)
 
 ---
 
