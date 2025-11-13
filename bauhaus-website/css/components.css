@@ -367,7 +367,7 @@
   font-size: var(--text-xl);
   font-weight: var(--weight-light);
   line-height: var(--leading-relaxed);
-  color: var(--color-gray-600);
+  color: var(--text-secondary);
   max-width: 540px;
 }
 
