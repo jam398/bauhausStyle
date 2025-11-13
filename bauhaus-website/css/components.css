@@ -23,7 +23,7 @@
   cursor: pointer;
   transition: all var(--duration-normal) var(--ease-in-out);
   user-select: none;
-  border-radius: var(--radius-full);
+  border-radius: 0; /* Bauhaus sharp edges */
 }
 
 .btn-primary {
@@ -104,7 +104,7 @@
   border: 1px solid var(--color-outline-variant);
   padding: var(--space-8);
   transition: all var(--duration-normal) var(--ease-in-out);
-  border-radius: 12px;
+  border-radius: 0; /* Bauhaus sharp rectangular forms */
   position: relative;
   overflow: hidden;
 }
