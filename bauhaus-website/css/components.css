@@ -357,9 +357,9 @@
 
 .hero-title {
   font-size: clamp(3rem, 8vw, 6.5rem);
-  font-weight: var(--weight-light);
+  font-weight: var(--weight-black);
   line-height: 0.9;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.05em;
   margin-bottom: var(--space-8);
 }
 
