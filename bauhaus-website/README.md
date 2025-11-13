@@ -2,16 +2,15 @@
 
 A modern website exploring Bauhaus design principles in the digital age. Built with pure HTML, CSS, and JavaScript following the Bauhaus philosophy: **form follows function**.
 
-> **Recent Updates (Nov 2025):** Enhanced to follow authentic Bauhaus Neo-Modernist principles with sharp geometric edges, bold typography (weights 700-900), flat design aesthetic, and tighter letter-spacing for geometric precision.
-
 ## 🎨 Design System
 
 ### Typography
 - **Font:** Inter Variable (9 weights: 100-900)
 - **Scale:** Perfect Fifth ratio (1.500)
-- **Heading Weights:** Bold to Black (700-900) for maximum impact
-- **Letter-spacing:** Tight on large headings (-0.05em) for geometric precision
-- **Labels:** Bold, ALL CAPS with wide spacing (0.15em)
+- **Heading Weights:** Bold to Black (700-900)
+- **Letter-spacing:** -0.05em on large headings
+- **Labels:** Bold weight with 0.15em spacing
+- **Body Text:** Pure black (#000000)
 - **CDN:** https://rsms.me/inter/inter.css
 
 ### Colors
@@ -55,10 +54,10 @@ bauhaus-website/
 - ✅ Pure CSS (no frameworks)
 - ✅ Inter variable font
 - ✅ Form validation
-- ✅ **Sharp geometric edges** (no border-radius on buttons/cards)
-- ✅ **Bold Bauhaus typography** (weights 700-900)
-- ✅ **Flat design aesthetic** (minimal 3D effects)
-- ✅ **Geometric precision** (tight letter-spacing on headings)
+- ✅ Sharp geometric edges (border-radius: 0)
+- ✅ Bold typography (weights 700-900)
+- ✅ Flat design aesthetic
+- ✅ Pure black text (#000000)
 
 ## 📄 Sections
 

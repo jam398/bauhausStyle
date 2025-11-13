@@ -15,8 +15,6 @@
 
 **Bauhaus Neo-Modernism** is a comprehensive design research project and interactive web portfolio that translates the revolutionary principles of the Bauhaus movement into the modern digital landscape. This project demonstrates how geometric clarity, systematic thinking, and functional design can create compelling web experiences.
 
-> **Recent Updates (November 2025):** Enhanced to follow authentic Bauhaus Neo-Modernist principles with sharp geometric edges, bold typography (weights 700-900), flat 2D design aesthetic, tighter letter-spacing, and enhanced label styling for maximum geometric precision.
-
 ### Design Philosophy
 
 - **Form Follows Function** — Every element serves a clear purpose
@@ -176,8 +174,10 @@ bauhausStyle/
 - **Type Scale:** Perfect Fifth ratio (1.500)
   - Base: 16px / 1rem
   - Scale: xs (12px) → sm (14px) → base (16px) → lg (18px) → xl (20px) → 2xl (24px) → 3xl (36px) → 4xl (54px) → 5xl (81px) → 6xl (121px)
+- **Heading Weights:** Bold to Black (700-900)
 - **Line Heights:** 1.2 (tight) for headings, 1.75 (relaxed) for body
-- **Weights:** Regular (400) for body, Semibold (600) / Bold (700) for headings
+- **Letter Spacing:** -0.05em on large headings for geometric precision
+- **Body Text:** Pure black (#000000) for maximum contrast
 
 ### Spacing System
 
