@@ -96,6 +96,16 @@
   opacity: 0.08;
 }
 
+.hero-shape--blue-block {
+  top: 50%;
+  right: -100px;
+  width: 400px;
+  height: 600px;
+  background: var(--bauhaus-blue);
+  opacity: 0.12;
+  transform: translateY(-50%) rotate(12deg);
+}
+
 @media (max-width: 1023px) {
   .hero {
     padding: var(--space-24) 0;
